@@ -1,7 +1,7 @@
 {
-  "name": "025 WebpackBabel-ENV-React-style",
+  "name": "class-025-adv-webpack-babel-env-practice-react-style",
   "version": "1.0.0",
-  "description": "",
+  "description": "env projact",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,7 +10,7 @@
     "server": "json-server --watch db.json --port 5050"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ananda",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.17.8",
